@@ -1,0 +1,88 @@
+body{
+  background-color: #000;
+  border-top: 13px solid #3a3a3a;
+  margin: 0px;
+}
+p{
+  color: #D3DCDF;
+  font-size: 15px;
+}
+.container{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 30px;
+  border-top: #3a3a3a
+}
+.banner{
+  padding-top: 40px;
+  margin: 0 auto 8px;
+}
+
+.img1{
+  border-radius: 50%;
+  width: 130px;
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+  color: white;
+}
+h2{
+  font-size: 30px;
+  color: beige
+}
+h3{
+  color: #D3DCDF;
+  font-size: 35px;
+}
+a {
+  color: #ff3;
+  transition: color .2s ease;
+  text-decoration: none;
+  cursor: pointer;
+
+}
+a:hover{
+  color: grey;
+  transition: color .2s ease;
+  z-index: 100;
+
+}
+.border{
+  border-top: 3px double;
+  color: #3a3a3a;
+  line-height: 1.3;
+}
+
+.item {
+  /* We center the contents of these items. You can also do this with flexbox too! */
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  border-radius: 3px;
+  font-size: 35px;
+  padding-top: 20px;
+}
+.item:hover{
+  opacity: .65;
+  filter: alpha(opacity=50)
+}
+.container-2{
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 30px;
+}
+.img2{
+  padding-left: 490px;
+}
+.img3{
+  padding-top: 20px;
+}
+.img4{
+  padding-top: 20px;
+  width
+}
+.img5{
+  padding-top: 20px;
+
+}
