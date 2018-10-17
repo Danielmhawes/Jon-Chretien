@@ -4,7 +4,6 @@ body {
   border-top: 13px solid #3a3a3a;
   font-family:  Vollkorn,-apple-system,BlinkMacSystemFont,Georgia,Times New Roman,Times,serif;
 }
-.main-container{
   
 
 }
@@ -20,7 +19,7 @@ body {
 p {
   font-family: 'Vollkorn', serif;
   color: #D3DCDF;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 header{
