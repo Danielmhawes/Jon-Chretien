@@ -1,6 +1,6 @@
 # Jon-Chretien
 - 
-- heres my live link: https://github.com/Danielmhawes/Jon-Chretien.git
+- live link: https://danielmhawes.github.io/jon-chretien/index.html
 
 ## Apps used
 - Visual studio
