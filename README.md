@@ -1,18 +1,51 @@
 # Jon-Chretien
-- 
-- heres my live link: https://github.com/Danielmhawes/Jon-Chretien.git
+- rebuilding a website 
 
-## Apps used
-- Visual studio
-- Git bash
-- GitHub
 
-## languages used:
+## Live link
+```
+- https://danielmhawes.github.io/jon-chretien/index.html
+```
+
+## Apps used 
+```
+
+- VS CODE
+- GITBASH
+- GitHUB
+
+```
+```
+
+languages:
+
 - HTML
 - CSS
+- SASS
+- Javascript
 
-##Change log:
+```
 
-- basic structure folders
-- Readme created
-- created a live link
+###Changelog
+
+```
+
+2018-11-26
+
+- Base folders stucture 
+- Readme created 
+- Created live link
+
+```
+```
+2018-11-27
+
+- added the basic layout of my the website
+- Changed background color
+- added some images
+```
+
+
+
+##Live link
+-  https://danielmhawes.github.io/jon-chretien/index.html
