@@ -42,6 +42,7 @@ languages:
 - Created live link
 
 ```
+
 ```
 2018-11-27
 
@@ -50,7 +51,21 @@ languages:
 - added some images
 ```
 
+```
+2018-11-30
+- added the images in the grids
+- styled it with css
+```
 
+```
+2018-12-03
+- busy  with responsiveness
+```
+
+```
+2018-12-04
+- completed responsiveness
+```
 
 ##Live link
 -  https://danielmhawes.github.io/jon-chretien/index.html
