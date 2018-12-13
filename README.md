@@ -1,5 +1,10 @@
 # Jon-Chretien
+<<<<<<< HEAD
 - rebuilding a website 
+=======
+- 
+- live link: https://danielmhawes.github.io/jon-chretien/index.html
+>>>>>>> 340c0e1bddaaebe5768a5f091de6268ddd7d29a1
 
 
 ## Live link
