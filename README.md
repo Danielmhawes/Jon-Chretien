@@ -26,8 +26,7 @@ languages:
 
 - HTML
 - CSS
-- SASS
-- Javascript
+
 
 ```
 

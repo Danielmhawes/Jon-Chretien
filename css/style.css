@@ -1,13 +1,16 @@
-@import url ("https:fonts.googleapis.com/css?family=Vollkorn");
+
 
 
 
 /* Styling the whole body */
 body {
+  font-family: Vollkorn,-apple-system,BlinkMacSystemFont,Georgia,Times New Roman,Times,serif;
+  font-size: 20px;
   margin-left: 0px;
   margin-right: 0px;
   background-color: #101A24;
-  color: white;
+  color: #ccc;
+  font-weight: 400;
   border-top: 13px solid #3a3a3a;
   margin-top: 0px;
 }
@@ -18,7 +21,7 @@ hr {
     margin-top: 3%;
 }
 
-
+/* main container styles */
 .main-container {
   margin-left: 6.250em;
   margin-right: 6.250em;
@@ -36,13 +39,14 @@ hr {
   text-decoration: none;
   color:grey;
 }
-
+/* all class"imgs" */
 .img {
   transition: 0.3s ease;
   width: 100%;
   height: auto;
 }
 
+/* img hover */
 .img:hover {
 opacity: 0.65;
 }
@@ -60,6 +64,7 @@ color:grey;
 text-decoration:grey;
 }
 
+/* all a tags */
 a:active {
   opacity: 0.65;
 }
@@ -77,6 +82,7 @@ a:active {
   padding:10px;
 }
 
+/* all divs in a container 1 */
 .grid-container1 >div {
   text-align: center;
   padding-right: 50px;
@@ -87,7 +93,7 @@ a:active {
   grid-column-start: 1;
   grid-column-end: 6;
 }
-
+/* h1 headings */
 h1 {
   line-height: 1px;
   font-size: 35px;
@@ -100,7 +106,7 @@ h1 {
   font-family: Vollkorn - 400;
   weight:400px;
 }
-
+/* grid .grid-container2 styles */
 .gridcontainer2{
   display:grid;
   /* Creating columns */
@@ -116,7 +122,7 @@ h1 {
 .gridcontainer2 >div {
   font-size: 20px;
 }
-
+/* headings */
 .headings {
   margin-top: 50px;
   font-family: Vollkorn;
@@ -160,6 +166,7 @@ h2 {
 .item-14 {
   grid-row-start: 4;
 }
+/* grid-container 4 styles */
 .gridcontainer4{
   display:grid;
   /* Creating columns */
@@ -174,7 +181,7 @@ h2 {
 .gridcontainer4 >div {
   font-size: 34px;
 }
-
+ /* subheadings for  grid3 */
 .grid3subheadings {
   text-align: center;
   line-height: 1px;
@@ -212,6 +219,7 @@ h2 {
 
 }
 
+/* all footerlinks */
 .footerlinks {
   text-align: left;
   text-decoration: none;
